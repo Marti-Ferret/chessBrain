@@ -1,6 +1,7 @@
 # ChessBrain
 
-**ChessBrain** es una plataforma de retos de ajedrez desarrollada con **React** y usando **Vite** como herramienta de construcción y desarrollo. A continuación, te explicamos cómo puedes clonar, instalar y ejecutar el proyecto en tu entorno local.
+**ChessBrain** es una plataforma de retos de ajedrez desarrollada con **React** y usando **Vite** como herramienta de construcción y desarrollo. Además, este proyecto utiliza **ChatGPT de OpenAI** para generar desafíos de ajedrez y el **AI SDK de Vercel** para facilitar la integración con la API de OpenAI. A continuación, te explico cómo puedes clonar, instalar y ejecutar el proyecto en tu entorno local.
+
 
 ## Requisitos previos
 
@@ -16,25 +17,25 @@ Sigue estos pasos para poner en marcha el proyecto en tu entorno local.
 ### Clonar el repositorio
 
 Primero, clona este repositorio usando Git:
-git clone https://github.com/tu-usuario/ChessBrain.git
+git clone https://github.com/Marti-Ferret/ChessBrain.git
 
 ### Navegar al directorio del proyecto
 Después de clonar el repositorio, entra en el directorio del proyecto:
-cd ChessBrain
+**cd ChessBrain**
 
 ### Instalar las dependencias
 Una vez dentro del directorio del proyecto, instala todas las dependencias ejecutando el siguiente comando:
-npm install
+**npm install**
 
 ### Ejecutar el proyecto en modo desarrollo
 Para iniciar el servidor de desarrollo, ejecuta el siguiente comando:
-npm run dev
+**npm run dev**
 
 Este comando iniciará Vite en modo de desarrollo y podrás ver el proyecto en tu navegador abriendo http://localhost:5173. El puerto puede cambiar, dependiendo de tu configuración local.
 
 ## Ejemplo
 
-
+https://github.com/user-attachments/assets/6a74e8fe-6e32-4c49-99a5-923f95e68833
 
 ## Contribuciones
 Si te gustaría contribuir al proyecto, sigue los pasos para hacer un fork del repositorio y enviar un pull request. Cualquier mejora o sugerencia es bienvenida.
